@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 
 I am a fullstack software engineer from Brazil
 
